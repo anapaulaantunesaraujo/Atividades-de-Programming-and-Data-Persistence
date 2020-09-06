@@ -1,0 +1,15 @@
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\obj\Debug\Consoledesafio01aula07.csprojAssemblyReference.cache
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\obj\Debug\Consoledesafio01aula07.csproj.CoreCompileInputs.cache
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\bin\Debug\Consoledesafio01aula07.exe.config
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\bin\Debug\Consoledesafio01aula07.exe
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\bin\Debug\Consoledesafio01aula07.pdb
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\bin\Debug\EntityFramework.dll
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\bin\Debug\EntityFramework.xml
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\obj\Debug\Consoledesafio01aula07.csproj.CopyComplete
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\obj\Debug\Consoledesafio01aula07.exe
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\obj\Debug\Consoledesafio01aula07.pdb
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\obj\Debug\Consoledesafio01aula07.Migrations.AddUsuário.resources
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\obj\Debug\Consoledesafio01aula07.csproj.GenerateResource.cache
+C:\Projetos\Visual Studio\Consoledesafio01aula07\Consoledesafio01aula07\obj\Debug\Consoledesafio01aula07.Migrations.Addalterar.resources
